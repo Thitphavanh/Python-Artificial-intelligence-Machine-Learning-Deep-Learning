@@ -5,7 +5,7 @@ import math
 import math
 
 
-def mc2():
+def emc2():
     c = (3*math.pow(10,8)**2)
     return c
 
